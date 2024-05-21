@@ -1,0 +1,16 @@
+# ninja log v5
+30	2695	7379479638338143	CMakeFiles/untitled.dir/source/point.cpp.obj	ba4d2371146a30f7
+51	2877	7379479640152970	CMakeFiles/untitled.dir/source/Score.cpp.obj	a21ce8703973d189
+47	2890	7379479640293392	CMakeFiles/untitled.dir/source/Pacman.cpp.obj	889d23430316252
+34	3222	7379479643616888	CMakeFiles/untitled.dir/source/Entity.cpp.obj	9fe4005666a65ff6
+26	3231	7379479643722125	CMakeFiles/untitled.dir/source/main.cpp.obj	ebc30ddfcf854934
+38	3238	7379479643767090	CMakeFiles/untitled.dir/source/Board.cpp.obj	269aee373a419283
+43	3392	7379479645316464	CMakeFiles/untitled.dir/source/Ghost.cpp.obj	b2e3e4465ebed956
+1	3688	7379479648273613	CMakeFiles/untitled.dir/source/Game.cpp.obj	81fa4f5419515b07
+3688	4730	7379479658096676	untitled.exe	27a40964fe67ec05
+32	1328	7379800942441171	CMakeFiles/untitled.dir/source/point.cpp.obj	ba4d2371146a30f7
+39	1963	7379800948781256	CMakeFiles/untitled.dir/source/Ghost.cpp.obj	b2e3e4465ebed956
+5	2325	7379800952410865	CMakeFiles/untitled.dir/source/Game.cpp.obj	81fa4f5419515b07
+2325	3721	7379800965479294	untitled.exe	27a40964fe67ec05
+4	1255	7379851776056718	CMakeFiles/untitled.dir/source/main.cpp.obj	ebc30ddfcf854934
+1255	2413	7379851786916942	untitled.exe	27a40964fe67ec05
